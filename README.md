@@ -1,3 +1,7 @@
 # Medical-Chatbot-using-LLMs-LangChain-Pinecone-Flask-AWS
 Medical Chatbot using LLMs LangChain Pinecone Flask AWS
-copy the uri : 415699578195.dkr.ecr.us-east-1.amazonaws.com/medicalchatbot
+
+
+Final Output 
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/cdaaa74d-e942-448f-b400-83c2bd4780aa" />
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/cdaaa74d-e942-448f-b400-83c2bd4780aa" />
